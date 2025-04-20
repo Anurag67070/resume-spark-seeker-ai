@@ -32,6 +32,32 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				spark: {
+					50: '#eef8ff',
+					100: '#daeeff',
+					200: '#bcdfff',
+					300: '#8ec7ff',
+					400: '#5aa4ff',
+					500: '#3581ff',
+					600: '#1a5ff5',
+					700: '#0f48e3',
+					800: '#1339b8',
+					900: '#153592',
+					950: '#0f2159',
+				},
+				teal: {
+					50: '#effffd',
+					100: '#c8fffa',
+					200: '#94fff5',
+					300: '#5cfeef',
+					400: '#2aecde',
+					500: '#0ad0c5',
+					600: '#00a7a1',
+					700: '#028583',
+					800: '#066868',
+					900: '#0a5655',
+					950: '#003235',
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
